@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "technologeek-blog"
+    }
+  },
+  "defaultProject": "technologeek-blog",
+  "cli": {
+    "analytics": "c2b320fb-4d87-4186-b1c0-16d79c9eabd5"
+  }
 }

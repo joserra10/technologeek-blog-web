@@ -1,0 +1,29 @@
+div {
+    align-content: center;
+    width: 46.5%;
+    height: 500px;
+    background-color: #FBFAFA;
+    display: inline-block;
+    margin: 20px;
+}
+
+div:hover {
+    -webkit-transform: scale(1.01);
+    -ms-transform: scale(1.01);
+    transform: scale(1.01);
+    transition: 0.5s ease;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+.title {
+    font-family: OCR A Std, monospace;
+    text-align: center;
+}
+
+.description {
+    font-family: Optima, sans-serif;
+    text-align: justify;
+    margin: 50px;
+}
